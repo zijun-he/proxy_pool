@@ -1,0 +1,2 @@
+proxies:
+- {"name": "HK_油管 TG 8度科技", "server": "hk20.holiganfan.com", "port": "10088", "type": "trojan", "password": "4e9dac0d-ae86-45e8-af61-668ce5825d61", "sni": "hk20.holiganfan.com", "skip-cert-verify": "true", "udp": "true"}
